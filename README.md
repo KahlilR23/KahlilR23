@@ -34,7 +34,6 @@ Strategic Senior QA Automation Engineer with **10+ years** of experience buildin
 const kahlil = {
     role: "Senior QA Automation Engineer",
     experience: "10+ years",
-    currentCompany: "Somos",
     location: "Houston, TX",
     
     achievements: [
@@ -103,7 +102,7 @@ const kahlil = {
 
 <div align="center">
   
-![Kahlil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KahlilR23&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KahlilR23&show_icons=true&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KahlilR23&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2E9EF7)
 
