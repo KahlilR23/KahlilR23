@@ -102,7 +102,7 @@ const kahlil = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KahlilR23&show_icons=true&theme=dark&hide_border=true)
+![Kahlil GitHub Stats](https://github-readme-stats.vercel.app/api?username=KahlilR23&theme=radical&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KahlilR23&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2E9EF7)
 
