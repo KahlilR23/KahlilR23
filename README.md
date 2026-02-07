@@ -245,6 +245,6 @@ I believe in:
 
 ![Bottom Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-**Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate on testing automation projects! 🚀**
+**Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate on projects! 🚀**
 
 </div>
